@@ -1,3 +1,7 @@
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/AnjaniKumar1515/AnjaniKumar1515/assets/113346374/c6a08b3d-01d0-4948-b1f7-2dd7d5c68da7)
+
+
+
 # Hi there! Welcome to my GitHub profile! 👋
 
 I'm Anjnai Kumar Rai from Bihar, and I'm passionate about building engaging and user-friendly web applications. My skills lie in the realm of frontend development, where I have honed my expertise in languages like HTML, CSS, and JavaScript. I am well-versed in utilizing frameworks such as React to create dynamic and responsive user interfaces.
@@ -14,7 +18,9 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 
 
-## Skills: ![Animated GIF](https://res.cloudinary.com/dvbxtietf/image/upload/v1685033733/Thunderbolt_Pikachu_GIF_-_Thunderbolt_Pikachu_Pokemon_-_Discover_Share_GIFs_ijixhs.gif)
+# Skills:     ![cat](https://github.com/AnjaniKumar1515/AnjaniKumar1515/assets/113346374/8bf9f4e6-fd5f-48c4-9239-b1cd703da1ea)
+
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
