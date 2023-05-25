@@ -14,16 +14,17 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 
 
-## Skills:  
-⚛ Javascript
-⚛ HTML 
-⚛ CSS
-⚛ REACT
-⚛ NODE JS
-⚛ EXPRESS
-⚛ MONGODB
-⚛ MONGOOSE
-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## Skills:
+[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](#)
+[![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png)](#)
+[![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)](#)
+[![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](#)
+[![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)](#)
+[![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)](#)
+[![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)](#)
+[![Mongoose](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mongoose_logo.png)](#)
+
+
 
 
 - 🔭 I’m currently working on Developing my skillsets 
