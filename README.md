@@ -10,11 +10,19 @@ I'm constantly seeking opportunities to learn and grow as a developer. Exploring
 
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to connect, feel free to reach out. Let's create amazing things together!
 
-Happy coding! 🚀
 
 
 
-Skills:  C++/ JS / HTML / CSS/ REACT/ NODE JS/ EXPRESS/ MONGODB/ MONGOOSE
+
+## Skills:  
+⚛ Javascript
+⚛ HTML 
+⚛ CSS
+⚛ REACT
+⚛ NODE JS
+⚛ EXPRESS
+⚛ MONGODB
+⚛ MONGOOSE
 
 - 🔭 I’m currently working on Developing my skillsets 
 - 🌱 I’m currently learning FullStack Web Development 
@@ -24,3 +32,4 @@ Skills:  C++/ JS / HTML / CSS/ REACT/ NODE JS/ EXPRESS/ MONGODB/ MONGOOSE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AnjaniKumar1515)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anjani-kumar-rai//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/wisteria.fall_//)  
 
+# Happy coding! 🚀
