@@ -14,7 +14,8 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 
 
-## Skills:
+## Skills: ![Animated GIF](https://res.cloudinary.com/dvbxtietf/image/upload/v1685033733/Thunderbolt_Pikachu_GIF_-_Thunderbolt_Pikachu_Pokemon_-_Discover_Share_GIFs_ijixhs.gif)
+
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
