@@ -15,14 +15,19 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 
 ## Skills:
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" height="50" alt="JavaScript"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png" width="80" height="50" alt="HTML"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="80" height="50" alt="CSS"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" height="50" alt="React"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="80" height="50" alt="Node.js"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" height="50" alt="Express.js"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="80" height="50" alt="MongoDB"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Mongoose_logo.png" width="80" height="50" alt="Mongoose"></a>
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
 
 
@@ -34,6 +39,17 @@ Feel free to explore my repositories and projects. If you have any questions, co
 - ⚡ Fun fact: Big Chess, Anime and Cosmos Geek 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AnjaniKumar1515)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anjani-kumar-rai//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/wisteria.fall_//)  
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=AnjaniKumar1515&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniKumar1515&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
 
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaniKumar1515&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 # Happy coding! 🚀
