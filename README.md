@@ -15,14 +15,15 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 
 ## Skills:
-[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](#)
-[![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png)](#)
-[![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)](#)
-[![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](#)
-[![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)](#)
-[![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)](#)
-[![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)](#)
-[![Mongoose](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mongoose_logo.png)](#)
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" alt="JavaScript"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png" width="50" height="50" alt="HTML"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="Node.js"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" height="50" alt="Express.js"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="50" alt="MongoDB"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Mongoose_logo.png" width="50" height="50" alt="Mongoose"></a>
+
 
 
 
